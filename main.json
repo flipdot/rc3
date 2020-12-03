@@ -179,7 +179,13 @@
                          "duration":100,
                          "tileid":10
                         }],
-                 "id":0
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -207,7 +213,13 @@
                          "duration":100,
                          "tileid":11
                         }],
-                 "id":1
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -235,7 +247,13 @@
                          "duration":100,
                          "tileid":22
                         }],
-                 "id":12
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
@@ -263,7 +281,13 @@
                          "duration":100,
                          "tileid":23
                         }],
-                 "id":13
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }],
