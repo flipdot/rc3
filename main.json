@@ -62,7 +62,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/daniel-westhof.de\/art\/Realit\u00e4tstranslator\/"
+                 "value":"https:\/\/daniel-westhof.de\/art\/Realit\u00e4tstranslator\/"
                 }],
          "type":"tilelayer",
          "visible":true,
